@@ -1,2 +1,2 @@
 [all]
-jenkins
+ansible_user=jenkins
